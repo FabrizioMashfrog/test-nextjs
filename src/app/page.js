@@ -29,7 +29,7 @@ export default function Home() {
               priority
             />
           </a>
-          <Link href="/test">Test page</Link>
+          <Link href="/test/">Test page</Link>
         </div>
       </div>
 

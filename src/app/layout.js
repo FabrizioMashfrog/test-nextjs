@@ -11,8 +11,8 @@ export default function RootLayout({children}) {
         <head/>
         <body style={{"width": "500px", "margin": "20px auto"}}>
         <div style={{color: "white"}}>
-            <Link href="/test">Test page</Link>
-            <Link href="/test2">Test page 2</Link>
+            <Link href="/test/">Test page</Link>
+            <Link href="/test2/">Test page 2</Link>
         </div>
         <br/>
         <br/>
